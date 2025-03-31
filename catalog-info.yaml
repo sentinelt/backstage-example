@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-example
+  annotations:
+    github.com/project-slug: sentinelt/backstage-example
+spec:
+  type: other
+  lifecycle: unknown
