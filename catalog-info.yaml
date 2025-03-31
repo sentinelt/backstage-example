@@ -4,7 +4,7 @@ metadata:
   name: backstage-example
   annotations:
     github.com/project-slug: sentinelt/backstage-example
-    backstage.io/techdocs-ref: docs/index.md
+    backstage.io/techdocs-ref: docs/
     backstage.io/adr-location: docs/adrs
 spec:
   owner: Sławek
